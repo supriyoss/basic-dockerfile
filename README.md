@@ -1,10 +1,10 @@
-# Build the Docker image using the following command in the same directory as the Dockerfile
+## Build the Docker image using the following command in the same directory as the Dockerfile
 
 ```bash
 docker build -t hello .
 ```
 
-# Run the docker container using the following command
+## Run the docker container using the following command
 
 ```bash
 docker run hello
